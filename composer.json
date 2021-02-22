@@ -1,0 +1,17 @@
+{
+    "name": "ajithgopi/featherphp",
+    "description": "The lightest PHP framework",
+    "type": "framework",
+    "require": {
+        "php": "^7.2",
+        "vlucas/phpdotenv": "^5.3",
+        "smarty/smarty": "^3.1",
+        "guzzlehttp/guzzle": "^7.2",
+        "phpmailer/phpmailer": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Ajith Gopi",
+        "email": "ajithgopiofficial@gmail.com"
+    }]
+}
